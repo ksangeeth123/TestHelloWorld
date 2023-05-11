@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Test Hello World</string>
+    <string name="my_name" translatable="false">Fun with Android</string>
+</resources>
